@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sokkhann.site/sitemap.xml
+Sitemap: https://sokkhann-pol.vercel.app/sitemap.xml
