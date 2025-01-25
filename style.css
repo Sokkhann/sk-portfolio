@@ -1720,7 +1720,8 @@ footer {
   }
   
   .resume-btn:hover {
-    width: 220px;
+    width: 400px;
+    padding-right: 30px;
   }
   
   .resume-btn:hover .sign {
